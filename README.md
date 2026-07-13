@@ -2,8 +2,8 @@
 
 ## 관심 분야
 
-- Data Engineering
 - Data Architecture
+- Data Engineering
 - ETL Pipeline
 - Database Modeling
 - Blockchain Data
@@ -19,10 +19,9 @@
 - 델타헷지형 스테이블 코인 Ethena USDe 구조를 분석하고, 발행·체결 과정에서 발생할 수 있는 시간차와 가격차 리스크를 관리하는 시스템을 구현했습니다.
 
 ## Tech Stack
-
 - Language: Python, SQL, Solidity
 - Data: Pandas, Jupyter Notebook
-- Database: MySQL
+- Database: MySQL, Oracle
 - Tools: Git, GitHub, Docker, VS Code
 - Modeling: ERD, Data Modeling
 
